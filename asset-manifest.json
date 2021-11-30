@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/classroom-attendance/static/css/main.53405ca0.chunk.css",
+    "main.js": "/classroom-attendance/static/js/main.65d74584.chunk.js",
+    "main.js.map": "/classroom-attendance/static/js/main.65d74584.chunk.js.map",
+    "runtime-main.js": "/classroom-attendance/static/js/runtime-main.632a4816.js",
+    "runtime-main.js.map": "/classroom-attendance/static/js/runtime-main.632a4816.js.map",
+    "static/js/2.66277705.chunk.js": "/classroom-attendance/static/js/2.66277705.chunk.js",
+    "static/js/2.66277705.chunk.js.map": "/classroom-attendance/static/js/2.66277705.chunk.js.map",
+    "index.html": "/classroom-attendance/index.html",
+    "static/css/main.53405ca0.chunk.css.map": "/classroom-attendance/static/css/main.53405ca0.chunk.css.map",
+    "static/js/2.66277705.chunk.js.LICENSE.txt": "/classroom-attendance/static/js/2.66277705.chunk.js.LICENSE.txt",
+    "static/media/SPCT_LOGO.edc5759b.jpg": "/classroom-attendance/static/media/SPCT_LOGO.edc5759b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.632a4816.js",
+    "static/js/2.66277705.chunk.js",
+    "static/css/main.53405ca0.chunk.css",
+    "static/js/main.65d74584.chunk.js"
+  ]
+}
